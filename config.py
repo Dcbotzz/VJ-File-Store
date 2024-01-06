@@ -47,7 +47,7 @@ DB_NAME = environ.get("DB_NAME", "eternalbot")
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 BOT_USERNAME = environ.get("BOT_USERNAME", "") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://telegra.ph/file/57663ba796ab3bc0b634b.jpg https://telegra.ph/file/c4271632eea7b957d7eaa.jpg https://telegra.ph/file/3e5ade5612b96b3245ad0.jpg https://telegra.ph/file/870b331da70b7242077ea.jpg https://telegra.ph/file/73323bc8852c5ebe2b7c2.jpg https://telegra.ph/file/5f65a3bbb9c574f282400.jpg https://telegra.ph/file/54b1ecfc820efc9f35e86.jpg https://telegra.ph/file/89bf09cc89eb23bba771b.jpg https://telegra.ph/file/5137942f19ad6ea7954bc.jpg https://telegra.ph/file/5449c2a9e299b56a2bece.jpg https://telegra.ph/file/809f4c47684d9641fe901.jpg https://telegra.ph/file/13d2feff69ce1ee1b6c9b.jpg https://telegra.ph/file/f4cef421c9f5c64007b7a.jpg https://telegra.ph/file/beac0cb13865ab5077559.jpg https://telegra.ph/file/4b741ef5f39cc69d83b68.jpg https://telegra.ph/file/d879aa3d983e735e98544.jpg https://telegra.ph/file/78161f2df40b9f98111cd.jpg https://telegra.ph/file/e10cce504cb2b62b6a85d.jpg https://telegra.ph/file/ffaf07f06c3b78636d653.jpg https://telegra.ph/file/db85398f4ff0883fd1702.jpg https://telegra.ph/file/76afbc288f31be3f70a9c.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
